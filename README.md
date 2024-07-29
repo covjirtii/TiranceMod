@@ -1,4 +1,4 @@
-# TiranceMood
+# TiranceMod
 Adds a new blizzard moon to Lethal Company!
 
 To install this:
